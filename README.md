@@ -1,3 +1,17 @@
+# Pexels Clone
+
+![image](https://github.com/OxeoH/react-pexels-clone/assets/82836661/9a942bd9-c3e5-4e3a-bb10-9a49f8ac867f)
+
+## Stack:
+### `React`
+### `Typescript`
+### `Redux`
+### `Axios`
+
+# Deploy
+This project was deployed on free hosting **Netlify**. 
+You can follow the link and try it: [deployment](https://effortless-salamander-e2e121.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
